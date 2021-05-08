@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<main>
+<main style="backgroundColor:white">
   <a href="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
