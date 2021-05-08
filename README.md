@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/andersontrkz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz)](https://github.com/andersontrkz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark)](https://github.com/andersontrkz/github-readme-stats)
 
 
 <!--
