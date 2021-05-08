@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/andersontrkz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/andersontrkz/github-readme-stats)
 
 <!--
 **andersontrkz/andersontrkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
