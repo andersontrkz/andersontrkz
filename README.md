@@ -10,8 +10,8 @@
 <br>
 <main align="center">
   <a href="https://github.com/andersontrkz/">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark" />
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark" />
   </a>
 </main>
 
@@ -25,7 +25,7 @@
       <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img width="140em" align="right" alt="keyboard-warrior" src="https://i.imgur.com/t51HrPx.gif">
+      <img width="150em" align="right" alt="keyboard-warrior" src="https://i.imgur.com/t51HrPx.gif">
     </a>
   </div>
 
