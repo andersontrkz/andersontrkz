@@ -19,7 +19,7 @@
 
 <footer>
   <div style="display: inline_block"><br>
-    <p>Latest used languages, frameworks and libraries:</p>
+    <p>Latest used technologies:</p>
     <a href="https://github.com/andersontrkz/">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
       <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
