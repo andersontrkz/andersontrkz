@@ -10,10 +10,10 @@
 
 <main>
   <a href="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+    <img width="50%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andersontrkz&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark" />
+    <img width="50%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontrkz&layout=compact&theme=vision-friendly-dark" />
   </a>
 </main>
 
@@ -31,7 +31,7 @@
 
 <div>
 <a href = "mailto: trkz.anderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hhttps://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--   
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
