@@ -29,9 +29,12 @@
 
   ##
 
-  <div>
-  
-  <a href="#" target="_blank"><img src="https://i.imgur.com/t51HrPx.gif" target="_blank"></a>
+<div>
+<a href = "mailto: trkz.anderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="hhttps://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--   
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
 </footer>
 
