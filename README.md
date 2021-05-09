@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <header>
-  <h4>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.<h4>
+  <p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
   <ul>
     <li>🔭 I'm currently a student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</li>
     <li>🌱 I’m currently learning React.js.</li>
@@ -18,6 +18,7 @@
   ##
 
 <footer>
+  <p>Latest used languages, frameworks and libraries:</p>
   <div style="display: inline_block"><br>
     <a href="https://github.com/andersontrkz/">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
@@ -32,6 +33,7 @@
   ##
   
   <div>
+    <p>Contact me anytime:</p>
     <a href = "mailto: trkz.anderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
