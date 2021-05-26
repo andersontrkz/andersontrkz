@@ -3,7 +3,9 @@
 <header>
   <p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
   <ul>
-    <li>🔭 I'm currently a student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</li>
+    <li>🔭 I'm currently a student at 
+      <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
+      <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
     <li>🌱 I’m currently learning React.js.</li>
   </ul>
 </header>
