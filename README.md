@@ -35,8 +35,10 @@
     </a>
   </div>
   
+  ###
+
   <div>
-    <p>### Contact me anytime 💻</p>
+    <h1> Contact me anytime 💻</h1>
     <a href = "mailto: trkz.anderson@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
   </div>
