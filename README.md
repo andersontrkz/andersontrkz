@@ -41,8 +41,8 @@
     <h2>Contact me anytime:
       <br>
       <br>
-    <a href = "mailto: trkz.anderson@gmail.com"><img height="60" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img height="60" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href = "mailto: trkz.anderson@gmail.com"><img height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
     </h2>
   </div>
 </footer>
