@@ -34,11 +34,9 @@
       <img width="172em" align="right" alt="keyboard-warrior" src="https://i.imgur.com/t51HrPx.gif" style="border-radius: 30px">
     </a>
   </div>
-
-  ##
   
   <div>
-    <p>Contact me anytime:</p>
+    <p>### Contact me anytime 💻</p>
     <a href = "mailto: trkz.anderson@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/anderson-trkz/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
   </div>
