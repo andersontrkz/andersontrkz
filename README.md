@@ -1,10 +1,10 @@
 ### 👋 Hi there 
 
 <header>
-  <table border="1">
+  <table>
       <tr>
           <td><p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p></td>
-          <td>Idade</td>
+          <td>Sou Anderson Turkiewicz, um apaixonado desenvolvedor  Web e de dispositivos móveis do Brasil.`</td>
       </tr>
       <tr>
           <td>
@@ -16,11 +16,6 @@
             </ul>
           </td>
           <td>22</td>
-      </tr>
-      <tr>
-          <td>Ralf</td>
-          <td>26</td>
-          <td>Designer</td>
       </tr>
   </table>
 </header>
