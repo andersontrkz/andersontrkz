@@ -64,7 +64,7 @@
   ##
 
   <div>
-    <h2>💻 Contact me anytime:
+    <h2>:mailbox: Contact me anytime:
       <br>
       <br>
     <a href = "mailto: trkz.anderson@gmail.com"><img height="24" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
