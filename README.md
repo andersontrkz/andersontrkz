@@ -2,30 +2,34 @@
 
 <header>
   <table border="0">
-      <tr>
-          <td>
-            <p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
-            <ul>
-              <li>🔭 I'm currently a student at 
-                <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
-                <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-              <li>🌱 I’m currently improving studies in React.js and Redux.</li>
-            </ul>
-          </td>
-          <td>
-            <p>`Sou Anderson Turkiewicz, um apaixonado desenvolvedor  Web e de dispositivos móveis do Brasil.`
-            <ul>
-              <li>` 🔭 Atualmente sou estudante na
-                <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
-                <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>. `</li>
-              <li>` 🌱 Atualmente estou aprimorando meus estudos em React.js e Redux. `</li>
-            </ul>
-          </td>
-      </tr>
-      <tr>
-          <td></td>
-          <td></td>
-      </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
+        <ul>
+          <li>🔭 I'm currently a student at 
+            <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
+            <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
+          <li>🌱 I’m currently improving studies in React.js and Redux.</li>
+        </ul>
+      </td>
+      <td>
+        <p>Sou Anderson Turkiewicz, um apaixonado desenvolvedor  Web e de dispositivos móveis do Brasil.
+        <ul>
+          <li>🔭 Atualmente sou estudante na
+            <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
+            <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
+          <li>🌱 Atualmente estou aprimorando meus estudos em React.js e Redux.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
   </table>
 </header>
 <br>
