@@ -1,13 +1,28 @@
 ### 👋 Hi there 
 
 <header>
-  <p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
-  <ul>
-    <li>🔭 I'm currently a student at 
-      <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
-      <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-    <li>🌱 I’m currently improving studies in React.js and Redux.</li>
-  </ul>
+  <table border="1">
+      <tr>
+          <td><p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p></td>
+          <td>Idade</td>
+      </tr>
+      <tr>
+          <td>
+            <ul>
+              <li>🔭 I'm currently a student at 
+                <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
+                <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
+              <li>🌱 I’m currently improving studies in React.js and Redux.</li>
+            </ul>
+          </td>
+          <td>22</td>
+      </tr>
+      <tr>
+          <td>Ralf</td>
+          <td>26</td>
+          <td>Designer</td>
+      </tr>
+  </table>
 </header>
 <br>
 <main align="center">
@@ -17,23 +32,7 @@
   </a>
 </main>
 
-<table border="1">
-    <tr>
-        <td>Nome</td>
-        <td>Idade</td>
-        <td>Profissão</td>
-    </tr>
-    <tr>
-        <td>Ted</td>
-        <td>22</td>
-        <td>Estudante</td>
-    </tr>
-    <tr>
-        <td>Ralf</td>
-        <td>26</td>
-        <td>Designer</td>
-    </tr>
-</table>
+
 
 <footer>
   <div style="display: inline_block"><br>
