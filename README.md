@@ -22,7 +22,7 @@
           <li>🔭 Atualmente sou estudante na
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
-          <li>🌱 Atualmente estou aprimorando meus estudos em React.js e Redux.</li>
+          <li>🌱 Atualmente estou aprimorando os estudos em React.js e Redux.</li>
         </ul>
       </td>
     </tr>
