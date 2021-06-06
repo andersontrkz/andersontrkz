@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 <header>
-  <table>
+  <table border="0">
       <tr>
           <td><p>I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p></td>
           <td>Sou Anderson Turkiewicz, um apaixonado desenvolvedor  Web e de dispositivos móveis do Brasil.`</td>
