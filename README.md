@@ -13,7 +13,8 @@
           <li>🔭 I'm currently a student at 
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-          <li>🌱 I’m currently improving studies in React.js and Redux.</li>
+          <li>🌱 I’m currently improving studies in Node.js and MySQL.</li>
+          <li>🌐 Visit my page <a href="https://andersontrkz.github.io/" target="_blank">here</a>.</li> to learn more about me.</li>
         </ul>
       </td>
       <td>
@@ -22,7 +23,8 @@
           <li>🔭 Atualmente sou estudante na
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
-          <li>🌱 Atualmente estou aprimorando os estudos em React.js e Redux.</li>
+          <li>🌱 Atualmente estou aprimorando os estudos em Node.js e MySQL.</li>
+          <li>🌐 Visite <a href="https://andersontrkz.github.io/" target="_blank">aqui</a>minha página, para saber um pouco mais sobre mim.</li> to learn more about me.</li>
         </ul>
       </td>
     </tr>
