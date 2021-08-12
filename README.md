@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td>
-        <p>🙋‍♂️ I'm Anderson Turkiewicz, a passionate web and mobile developer from Brazil.</p>
+        <p>🙋‍♂️ I'm Anderson Turkiewicz, a Brazilian web developer passionate about technology.</p>
         <ul>
           <li>🔭 I'm currently a student at 
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
@@ -20,7 +20,7 @@
         </ul>
       </td>
       <td>
-        <p>🙋‍♂️ Sou Anderson Turkiewicz, um apaixonado desenvolvedor web e mobile do Brasil.
+        <p>🙋‍♂️ Sou o Anderson Turkiewicz, um brasileiro desenvolvedor web apaixonado por tecnologia.
         <ul>
           <li>🔭 Atualmente sou estudante na
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
