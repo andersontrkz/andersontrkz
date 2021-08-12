@@ -13,7 +13,7 @@
           <li>🔭 I'm currently a student at 
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-          <li>🌱 I’m currently improving studies in Node.js and MySQL.</li>
+          <li>🌱 I’m currently improving studies in Node.js, MySQL e MOngoDB.</li>
           <li>🌐 Know a little more about me <a href="https://andersontrkz.vercel.app" target="_blank">here</a>.</li>
         </ul>
       </td>
@@ -23,7 +23,7 @@
           <li>🔭 Atualmente sou estudante na
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
-          <li>🌱 Atualmente estou aprimorando os estudos em Node.js e MySQL.</li>
+          <li>🌱 Atualmente estou aprimorando os estudos em Node.js, MySQL e MongoDB.</li>
           <li>🌐 Conheça um pouco mais sobre mim <a href="https://andersontrkz.vercel.app" target="_blank">aqui</a>.</li>
         </ul>
       </td>
