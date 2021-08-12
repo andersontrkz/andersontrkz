@@ -27,7 +27,7 @@
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
           <li>🌱 Atualmente estou aprimorando os estudos em Node.js, MySQL e MongoDB.</li>
           <li>🌐 Conheça um pouco mais sobre mim <a href="https://andersontrkz.vercel.app" target="_blank">aqui</a>.</li>
-          <li>📰 Clieque <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">aqui</a> e conheça também este simpatico blog de noticias.</li>
+          <li>📰 Clieque <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">aqui</a> e conheça também este simpático blog de noticias.</li>
         </ul>
       </td>
     </tr>
