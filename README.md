@@ -13,7 +13,7 @@
           <li>🔭 I'm currently a student at 
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-          <li>🌱 I’m currently improving studies in Node.js, MySQL e MOngoDB.</li>
+          <li>🌱 I’m currently improving studies in Node.js, MySQL e MongoDB.</li>
           <li>🌐 Know a little more about me <a href="https://andersontrkz.vercel.app" target="_blank">here</a>.</li>
         </ul>
       </td>
