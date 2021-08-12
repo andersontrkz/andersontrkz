@@ -14,7 +14,7 @@
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
           <li>🌱 I’m currently improving studies in Node.js and MySQL.</li>
-          <li>🌐 Visit my page <a href="https://andersontrkz.github.io/" target="_blank">here</a> to learn more about me.</li>
+          <li>🌐 Visit my page <a href="https://andersontrkz.vercel.app" target="_blank">here</a> to learn more about me.</li>
         </ul>
       </td>
       <td>
@@ -24,7 +24,7 @@
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
           <li>🌱 Atualmente estou aprimorando os estudos em Node.js e MySQL.</li>
-          <li>🌐 Visite <a href="https://andersontrkz.github.io/" target="_blank">aqui</a> minha página, para saber um pouco mais sobre mim.</li>
+          <li>🌐 Visite <a href="https://andersontrkz.vercel.app" target="_blank">aqui</a> minha página, para saber um pouco mais sobre mim.</li>
         </ul>
       </td>
     </tr>
