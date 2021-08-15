@@ -78,4 +78,9 @@
     <a href="https://www.linkedin.com/in/andersontrkz/" target="_blank"><img height="24" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
     </h2>
   </div>
+  name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.andersontrkz }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
 </footer>
