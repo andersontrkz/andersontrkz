@@ -77,5 +77,5 @@
     <a href="https://www.linkedin.com/in/andersontrkz/" target="_blank"><img height="24" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
     </h2>
   </div>
-</footer>
   ![Snake animation](https://github.com/andersontrkz/andersontrkz/blob/output/github-contribution-grid-snake.svg)
+</footer>
