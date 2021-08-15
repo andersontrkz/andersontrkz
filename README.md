@@ -78,5 +78,5 @@
     </h2>
   </div>
   ![snake gif](https://github.com/andersontrkz/andersontrkz/blob/output/github-contribution-grid-snake.gif)
-  <img src="https://github.com/andersontrkz/andersontrkz/blob/output/github-contribution-grid-snake.gif">
+  <img src="https://github.com/andersontrkz/andersontrkz/blob/output/github-contribution-grid-snake.svg">
 </footer>
