@@ -74,7 +74,8 @@
       <br>
       <br>
     <a href = "mailto: trkz.anderson@gmail.com"><img height="24" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/andersontrkz/" target="_blank"><img height="24" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/andersontrkz/" target="_blank"><img height="24" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
     </h2>
   </div>
 </footer>
+  ![Snake animation](https://github.com/andersontrkz/andersontrkz/blob/output/github-contribution-grid-snake.svg)
