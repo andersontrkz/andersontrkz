@@ -15,8 +15,7 @@
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
           <li>🌱 I’m currently improving studies in Node.js, MySQL e MongoDB.</li>
           <li>🌐 Know a little more about me <a href="https://andersontrkz.vercel.app" target="_blank">here</a>.</li>
-          <li>📰 Click <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">here</a> and also know this nice news blog.
-</li>
+          <li>📰 Click <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">here</a> and also know this nice news blog.</li>
         </ul>
       </td>
       <td>
