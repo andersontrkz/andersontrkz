@@ -13,7 +13,7 @@
           <li>🔭 I'm currently a student at 
             <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and 
             <a href="https://www.guairaca.com.br/" target="_blank">UniGuairacá</a>.</li>
-          <li>🌱 I’m currently improving studies in Node.js, MySQL e MongoDB.</li>
+          <li>🌱 I’m currently improving studies in Python.</li>
           <li>🌐 Know a little more about me <a href="https://andersontrkz.vercel.app" target="_blank">here</a>.</li>
           <li>📰 Click <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">here</a> and also know this nice news blog.</li>
         </ul>
@@ -24,7 +24,7 @@
           <li>🔭 Atualmente sou estudante na
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a> e
             <a href="https://www.guairaca.com.br/" target="_blank"> UniGuairacá </a>.</li>
-          <li>🌱 Atualmente estou aprimorando os estudos em Node.js, MySQL e MongoDB.</li>
+          <li>🌱 Atualmente estou aprimorando os estudos em Python.</li>
           <li>🌐 Conheça um pouco mais sobre mim <a href="https://andersontrkz.vercel.app" target="_blank">aqui</a>.</li>
           <li>📰 Clique <a href="https://andersontrkz.github.io/tech-news-minute" target="_blank">aqui</a> e conheça também este simpático blog de noticias.</li>
         </ul>
